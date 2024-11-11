@@ -1,3 +1,4 @@
+    // Sort the array using quick sort
 #include <stdio.h>
 
 // Function to swap two elements
