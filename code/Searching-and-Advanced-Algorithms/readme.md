@@ -21,15 +21,15 @@ These programs help in building strong algorithmic foundations and improving eff
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Write a C program to perform linear search on an array using dynamic memory allocation. | [linear_search_dynamic.c]() |
-| 2. | Write a C program to perform binary search on a sorted array. | [binary_search.c]() |
-| 3. | Write a C program to sort an array using insertion sort. | [insertion_sort.c]() |
-| 4. | Write a C program to sort an array using quick sort. | [quick_sort.c]() |
-| 5. | Write a C program to perform recursive linear search. | [recursive_linear_search.c]() |
-| 6. | Write a C program to sort an array of strings in alphabetical order. | [string_sorting.c]() |
-| 7. | Write a C program to perform selection sort using recursion. | [recursive_selection_sort.c]() |
-| 8. | Write a menu-driven program to find the middle and second largest element in a queue. | [queue_special_operations.c]() |
-| 9. | Write a C program to remove duplicate elements from a sorted doubly linked list. | [dll_remove_duplicates.c]() |
+| 1. | Write a C program to perform linear search on an array using dynamic memory allocation. | [linear_search_dynamic.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/linear_search_dynamic.c) |
+| 2. | Write a C program to perform binary search on a sorted array. | [binary_search.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/binary_search.c) |
+| 3. | Write a C program to sort an array using insertion sort. | [insertion_sort.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/insertion_sort.c) |
+| 4. | Write a C program to sort an array using quick sort. | [quick_sort.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/quick_sort.c) |
+| 5. | Write a C program to perform recursive linear search. | [recursive_linear_search.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/recursive_linear_search.c) |
+| 6. | Write a C program to sort an array of strings in alphabetical order. | [string_sorting.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/string_sorting.c) |
+| 7. | Write a C program to perform selection sort using recursion. | [recursive_selection_sort.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/recursive_selection_sort.c) |
+| 8. | Write a menu-driven program to find the middle and second largest element in a queue. | [queue_special_operations.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/queue_special_operations.c) |
+| 9. | Write a C program to remove duplicate elements from a sorted doubly linked list. | [dll_remove_duplicates.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Searching-and-Advanced-Algorithms/dll_remove_duplicates.c) |
 
 ---
 

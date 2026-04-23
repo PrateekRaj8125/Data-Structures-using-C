@@ -23,10 +23,10 @@ These programs help in understanding dynamic memory allocation and pointer-based
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Write a C program to create a single linked list and perform insertion at beginning, insertion at end, and traversal. | [sll_basic_operations.c]() |
-| 2. | Write a C program to perform search, sort, reverse, and traversal operations on a single linked list using menu-driven approach. | [sll_advanced_operations.c]() |
-| 3. | Write a C program to create and display a doubly linked list using user-defined functions. | [dll_creation_traversal.c]() |
-| 4. | Write a C program to reverse a doubly linked list. | [dll_reverse.c]() |
+| 1. | Write a C program to create a single linked list and perform insertion at beginning, insertion at end, and traversal. | [sll_basic_operations.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Linked-Lists/sll_basic_operations.c) |
+| 2. | Write a C program to perform search, sort, reverse, and traversal operations on a single linked list using menu-driven approach. | [sll_advanced_operations.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Linked-Lists/sll_advanced_operations.c) |
+| 3. | Write a C program to create and display a doubly linked list using user-defined functions. | [dll_creation_traversal.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Linked-Lists/dll_creation_traversal.c) |
+| 4. | Write a C program to reverse a doubly linked list. | [dll_reverse.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Linked-Lists/dll_reverse.c) |
 
 ---
 

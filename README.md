@@ -14,7 +14,7 @@ It is designed as a complete learning path for C programming, covering:
 ## 📂 Repository Structure
 
 ```text
-    C-Programming-Practice/
+    Data-Structures-using-C/
     │
     ├── Functions-and-Structures/
     ├── Recursion-and-Advanced-Structures/
@@ -32,14 +32,14 @@ It is designed as a complete learning path for C programming, covering:
 
 | Level | Folder Name | Concepts Covered |
 | --- | --- | --- |
-| 1. | [Functions and Structures]() | Functions, recursion basics, structures |
-| 2. | [Recursion and Advanced Structures]() | Recursive problem solving, nested structures |
-| 3. | [Arrays and Matrices]() | Array operations, matrix manipulation |
-| 4. | [Linked Lists]() | SLL, DLL, traversal, insertion, deletion |
-| 5. | [Stacks and Expression Evaluation]() | Stack operations, infix/postfix evaluation |
-| 6. | [Queues and Circular Queues]() | Queue operations, circular queue |
-| 7. | [Advanced Stacks, Queues and Sorting]() | Stack applications, deque, sorting |
-| 8. | [Searching and Advanced Algorithms]() | Searching, advanced sorting, problem solving |
+| 1. | [Functions and Structures](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Functions-and-Structures) | Functions, recursion basics, structures |
+| 2. | [Recursion and Advanced Structures](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Recursion-and-Advanced-Structures) | Recursive problem solving, nested structures |
+| 3. | [Arrays and Matrices](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Arrays-and-Matrices) | Array operations, matrix manipulation |
+| 4. | [Linked Lists](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Linked-Lists) | SLL, DLL, traversal, insertion, deletion |
+| 5. | [Stacks and Expression Evaluation](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Stacks-and-Expression-Evaluation) | Stack operations, infix/postfix evaluation |
+| 6. | [Queues and Circular Queues](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Queues-and-Circular-Queues) | Queue operations, circular queue |
+| 7. | [Advanced Stacks, Queues and Sorting](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Advanced-Stacks-Queues-and-Sorting) | Stack applications, deque, sorting |
+| 8. | [Searching and Advanced Algorithms](https://github.com/PrateekRaj8125/Data-Structures-using-C/tree/main/code/Searching-and-Advanced-Algorithms) | Searching, advanced sorting, problem solving |
 
 ---
 
@@ -118,7 +118,7 @@ Functions → Recursion → Structures → Arrays → Linked Lists → Stacks �
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License]().
+This project is open-source and available under the [MIT License](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/LICENSE.md).
 
 ---
 

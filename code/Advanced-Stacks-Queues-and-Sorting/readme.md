@@ -19,14 +19,14 @@ This folder contains advanced C programs that extend stack and queue concepts an
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Write a C program to evaluate a postfix expression using stack. | [postfix_evaluation.c]() |
-| 2. | Write a C program to check for duplicate parentheses in an expression using stack. | [duplicate_parentheses.c]() |
-| 3. | Write a C program to convert a decimal number to binary using stack. | [decimal_to_binary_stack.c]() |
-| 4. | Write a C program to implement deque operations using array. | [deque_array.c]() |
-| 5. | Write a C program to implement circular queue using linked list. | [circular_queue_linkedlist_menu.c]() |
-| 6. | Write a C program to implement deque using doubly linked list. | [deque_linkedlist.c]() |
-| 7. | Write a C program to sort an array using bubble sort. | [bubble_sort.c]() |
-| 8. | Write a C program to sort an array using selection sort. | [selection_sort.c]() |
+| 1. | Write a C program to evaluate a postfix expression using stack. | [postfix_evaluation.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/postfix_evaluation.c) |
+| 2. | Write a C program to check for duplicate parentheses in an expression using stack. | [duplicate_parentheses.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/duplicate_parentheses.c) |
+| 3. | Write a C program to convert a decimal number to binary using stack. | [decimal_to_binary_stack.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/decimal_to_binary_stack.c) |
+| 4. | Write a C program to implement deque operations using array. | [deque_array.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/deque_array.c) |
+| 5. | Write a C program to implement circular queue using linked list. | [circular_queue_linkedlist_menu.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/circular_queue_linkedlist_menu.c) |
+| 6. | Write a C program to implement deque using doubly linked list. | [deque_linkedlist.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/deque_linkedlist.c) |
+| 7. | Write a C program to sort an array using bubble sort. | [bubble_sort.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/bubble_sort.c) |
+| 8. | Write a C program to sort an array using selection sort. | [selection_sort.c](https://github.com/PrateekRaj8125/Data-Structures-using-C/blob/main/code/Advanced-Stacks-Queues-and-Sorting/selection_sort.c) |
 
 ---
 
